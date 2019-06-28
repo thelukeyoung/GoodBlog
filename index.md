@@ -10,7 +10,7 @@ span of its life the telegraph helped format railroad trade as
 well as establish better time zones (which was necessary with the greater distances 
 the telegraph messages carried) (Carey 19-21). However, Corporations saw the 
 invention of the telegraph as a means For wealth . In Technology and Ideology: The Case
-of the Telegraph ( James W. Carey), it talks about how companies began to monopolize 
+of the Telegraph (James W. Carey 2009), it talks about how companies began to monopolize 
 the telegraph and with that gain the powerof controlling communication through the 
 telegraph. (Carey 2). The initial response of corporate entities was to capitalize on 
 the profits of the new technology. When reading this it made me realize how power 

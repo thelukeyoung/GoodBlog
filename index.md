@@ -1,29 +1,29 @@
-## Blog 1
+## GoodBlog
 
 ```markdown
-Syntax highlighted code block
+## 1st Week Blog
+Technology has been the foundation of human development and improvement and this improvement has increased exponentially
+throughout time. The telegraph is a great example of one of these technologies. It made communication much faster and allowed 
+for morepeople to communicate with each other. It also over the span of its life the telegraph helped format railroad trade as 
+well as establish better time zones (which was necessary with the greater distances the telegraph messages carried) (Carey 19-21). 
+However, Corporations saw the invention of the telegraph as a means For wealth . In Technology and Ideology: The Case
+of the Telegraph ( James W. Carey), it talks about how companies began to monopolize the telegraph and with that gain the power
+of controlling communication through the telegraph. (Carey 2). The initial response of corporate entities was to capitalize on 
+the profits of the new technology. When reading this it made me realize how power hungry entities focus on technology to get 
+power whether it is firearms or satellites.
 
-# Header 1
-## Header 2
-### Header 3
+When technology is introduced it has a domino effect changing major things that are around it that are not only directly related
+but indirectly related. This process of change is however inevitably halted by corporations and government once society becomes
+heavily reliant upon the technology. In The Master Switch written (Tim Wu 2011) it goes into detail about this, “History shows 
+a typical progression of information technologies: from somebody's hobby to somebody's industry: from jury-rigged contraption 
+to slick production model; from a freely accessible channel to one stricly controlled by a single corporation or cartel---From 
+open to closed system” (Wu 6). Essentially with this open to closed system technology seems that it can never achieve its full 
+potential. The open to closed system has made it more and more difficult to improve technology especially in the modern era of 
+technology because all technology is patented now by this major companies or government bodies often not allowing much improvement
+to be made by outside entities. Furthermore, without this competition from outside entities there is less incentive to develop new
+and more advanced technology since they control the market.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Carey, J. (2009). Technology and Ideology: The Case of the Telegraph
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thelukeyoung/GoodBlog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Wu, T. (2010) The Master Switch: The Rise and Fall of Information Empires. Chapters 1 and 15, pages 3 -14, and 196-203

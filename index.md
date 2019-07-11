@@ -42,5 +42,5 @@ Wu, T. (2010) The Master Switch: The Rise and Fall of Information Empires. Chapt
 ##Week 3
 
 Self Portrait
-[Link](index.html)
+[Link](Self_Portrait.html)
 

@@ -44,3 +44,35 @@ Wu, T. (2010) The Master Switch: The Rise and Fall of Information Empires. Chapt
 Self Portrait
 [selfportrait](Self_Portrait.html)
 
+##Week 4
+
+In this weeks reading and videos I found that Shoshana Zuboff keynote speech on surveillance capitalism was one of the most
+interesting. The idea that the internet has been ingrained so heavily into the internet that almost everything you access 
+online is used to sell you a product. This in my head is a complete violation of privacy.This made me think of the facebook
+scandal where information was used to advertise on the site. Google also has been a culperite in the surveillance capitalism 
+scene. They have been known to use people's search history to market ads based on what the individuals seems to be interested
+in. I think in a way this is not a bad thing it is just marketing towards a demographic that should be likely to purchase the
+product. However, I don't believe any corporate entities should have access to private information that said company did not
+have permission to use. The internet is a lot more regulated than it previously was but company's know that this is a gray area
+where they can abuse this and turn a prophet. Our information is being sold and traded between companies and this needs to be 
+regulated to allow some information on the internet completely privately or outlaw what companies can used. Another big issue 
+here is that if companies can access this information without you even being affiliated with them then what is stopping anyone
+from viewing this information? With the past history of icloud accounts being hacked into and the releasement of different 
+explicit images that individuals did not what out there publically. There is a correlation here because it is not a direct use
+of private information to hurt or slander but it is a misuse of private information that these companies should not have access
+too. As a result of this there simply needs to be a change to how companies market based off of other people's information. 
+
+	Another video I found interesting was the Edward Snowden: the whistleblower behind the NSA surveillance revelations video in
+  which he discusses the leaking of NSA information because practices he found of surveillance he did not believe were right. 
+  Snowden believes he is completely just in his actions and I have to agree. In the US society free freedom is preached so 
+  heavily as well as the right to protest him releasing this information which he did not believe to be just practice by the
+  government is completely reasonable and the only legitimate security issue of this is other countries possibly figuring out 
+  how we did surveillance. However, the American people needed to know the truth about how we have all been being monitored.
+  This whole NSA surveillance idea was also a big concern before the whole this whole snowden event. The idea of big brother 
+  looking down and over you as a means of control has been around forever. Without Snowden united states citizens would be 
+  ignorant of how close this ideology of big brother is coming to fruition.
+
+
+Works cited
+Forum Privatheit 2018: Shoshana Zuboff keynote speech on surveillance capitalism https://www.youtube.com/watch?v=DeaSxCN2uw8
+Greenwald, G. (June 9, 2013) “Edward Snowden, The Whistle-blower Behind the NSA Surveillance Revelations. The Guardian.

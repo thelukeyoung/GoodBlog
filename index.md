@@ -87,3 +87,39 @@ ignorant of how close this ideology of big brother is coming to fruition.
 Works cited
 Forum Privatheit 2018: Shoshana Zuboff keynote speech on surveillance capitalism https://www.youtube.com/watch?v=DeaSxCN2uw8
 Greenwald, G. (June 9, 2013) “Edward Snowden, The Whistle-blower Behind the NSA Surveillance Revelations. The Guardian.
+
+
+##Week 5
+
+In the readings this week the I found the first article in the LA Times
+Your job is about to get ‘taskified’ by  MARY L. GRAY to be very interesting
+. In the article, it discussed the movement from the typical nine to five 
+job to more tasked based jobs such as Grub hub where you are paid based off
+a single task at a rate for that single job. This makes it so that people are
+able to work whenever they need to since the products that these companies sell
+are basically always in demand. The issue with this is job security and steady
+pay for consistent action. As the world becomes more automated the less need 
+there is for these nine to fives with consistent workdays because machines 
+are simply way better at these tasks than us humans. However, the skills it
+takes to do these “taskified” jobs such as intuition when finding a specific
+building that may be labeled incorrectly is much more suited for human beings.
+This is an issue I believe because it is going to slowly turn human beings 
+into simple tools in specific positions. While machines will essentially be
+working the nine to five jobs. A counter to this could be that machines are 
+just taking the less critical thinking jobs such as being a factory worker and
+this will just push human beings to use more intellect inside of force. This 
+would be a valid argument but not everyone is capable of these positions that
+are able to be automated and I don't believe that just because of that they 
+shouldn't be allowed to have a stable job as the previous generations of workers
+before they had. I believe in capitalism and I do understand that it is the most
+cost-efficient way to produce goods and transport them is to automate but I believe
+with greater automatization the less social and human our society becomes. It still
+has yet to be seen what effects of this “taskified” type of work has on the world
+but there are definitely a lot of concerns. The one way I believe we could break 
+up this “taskified” era before it really starts would be creating a system such as
+a union for these types of companies to create a viable life based off the income as
+well as some benefits such as retirement. 
+
+
+Works cited:
+Gray, M. (2016) Your Job is About to Get Taskified Los Angeles Times
